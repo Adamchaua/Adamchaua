@@ -20,7 +20,7 @@ Independent builder focused on shipping practical fixes across open-source repos
 - Small pull requests with focused diffs
 - Tests or verification steps included whenever practical
 - Fast follow-up on review comments, merge conflicts, and CI failures
-- Bounty payouts: crypto wallet `XKO1ecab01075f3bdf1b56b7d849c8e28ef88943624`; PayPal `ckelvinkhanh32@gmail.com`
+- Bounty payouts: crypto wallet `0x1ecab01075f3bdf1b56b7d849c8e28ef88943624`; PayPal `ckelvinkhanh32@gmail.com`
 
 ## Tech Areas
 
