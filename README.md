@@ -20,7 +20,7 @@ Independent builder focused on shipping practical fixes across open-source repos
 - Small pull requests with focused diffs
 - Tests or verification steps included whenever practical
 - Fast follow-up on review comments, merge conflicts, and CI failures
-- Bounty payouts: when a bounty program asks for an EVM wallet, use `0xdaE5d307339074A24F579dB48e7c639359D94904`
+- Bounty payouts: crypto wallet `XKO1ecab01075f3bdf1b56b7d849c8e28ef88943624`; PayPal `ckelvinkhanh32@gmail.com`
 
 ## Tech Areas
 
