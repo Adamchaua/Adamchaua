@@ -1,38 +1,39 @@
 # Adam Chau
 
-Independent builder focused on shipping practical fixes across open-source repositories, security bounties, automation tooling, and AI-assisted developer workflows.
+Independent open-source bounty contributor focused on practical security fixes, AI-agent tooling, automation, and small high-quality pull requests that are easy to review and merge.
 
 ## What I Work On
 
-- Security and bug bounty fixes with clear reproduction notes and minimal, reviewable patches
-- AI agent tooling, Claude/Codex workflows, hooks, repo templates, and automation scripts
-- Web apps, backend services, CI cleanup, and developer-experience improvements
-- Crypto/Web3 issue triage and smart-contract safety fixes
+- Security and bug-bounty fixes with clear acceptance checks, focused diffs, and verification notes
+- Claude/Codex tooling: hooks, skills, repo templates, review agents, and developer automation
+- Web3 and crypto safety work: wallet flows, smart-contract edge cases, transaction tooling, and SDK hardening
+- CI, tests, docs, and developer-experience improvements for active open-source projects
 
 ## Current Focus
 
-- Maintaining active bounty pull requests and following CI until merge
-- Improving reliability for upload, media-processing, and automation pipelines
-- Contributing targeted patches to projects where the issue scope is clear and testable
+- Finding and completing legitimate open-source bounty tasks in the $5-$100 range
+- Following maintainer feedback until PRs are merged or clearly rejected
+- Improving reliability through tests, reproducible examples, and low-noise communication
 
 ## Working Style
 
-- Small pull requests with focused diffs
-- Tests or verification steps included whenever practical
-- Fast follow-up on review comments, merge conflicts, and CI failures
-- Bounty payouts: crypto wallet `0x1ecab01075f3bdf1b56b7d849c8e28ef88943624`; PayPal `ckelvinkhanh32@gmail.com`
+- Read the issue and acceptance criteria before coding
+- Keep patches small, scoped, and reviewable
+- Include tests or manual verification steps whenever practical
+- Avoid leaking secrets, tokens, or private payout details in code or logs
+- Respond quickly to CI failures, review comments, and requested changes
 
 ## Tech Areas
 
-`Python` `TypeScript` `React/Preact` `FastAPI` `Node.js` `Solidity` `GitHub Actions` `Automation` `AI Agents`
+`Python` `TypeScript` `React/Preact` `Node.js` `FastAPI` `Solidity` `GitHub Actions` `Automation` `AI Agents` `Web3`
 
-## Selected Work Streams
+## Payout Details
 
-- Open-source bounty hunting and security hardening
-- Claude/Codex builder utilities and project templates
-- Media processing pipelines with resumable uploads
-- GitHub repository triage, CI maintenance, and PR management
+For approved bounty payouts when maintainers request payment information:
+
+- EVM: `0x1ecab01075f3bdf1b56b7d849c8e28ef88943624`
+- PayPal: `ckelvinkhanh32@gmail.com`
 
 ---
 
-Open to focused bounty tasks, practical security fixes, and automation-heavy engineering work.
+Open to focused bounty tasks, security hardening, AI-agent tooling, and automation-heavy engineering work.
