@@ -2,41 +2,51 @@
 
 Independent open-source bounty contributor focused on practical security fixes, AI-agent tooling, automation, and small high-quality pull requests that are easy to review and merge.
 
-## 🚀 What I Work On
+I like work that maintainers can verify quickly: clear reproduction notes, minimal diffs, tests when practical, and concise follow-up until the issue is resolved.
+
+## What I Build
 
 - Security and bug-bounty fixes with clear acceptance checks, focused diffs, and verification notes
 - Claude/Codex tooling: hooks, skills, repo templates, review agents, and developer automation
 - Web3 and crypto safety work: wallet flows, smart-contract edge cases, transaction tooling, and SDK hardening
 - CI, tests, docs, and developer-experience improvements for active open-source projects
 
-## 🔍 Current Focus
+## Current Focus
 
 - Finding and completing legitimate open-source bounty tasks in the `$5-$100` range
 - Following maintainer feedback until PRs are merged or clearly rejected
 - Improving reliability through tests, reproducible examples, and low-noise communication
 - Building small AI/dev/security tools from real public demand signals
 
-## 🧪 Working Style
+## How I Work
 
 - Read the issue and acceptance criteria before coding
+- Reproduce the issue before changing code
 - Keep patches small, scoped, and reviewable
 - Include tests or manual verification steps whenever practical
 - Present PRs clearly with deliverables, verification, and notes
 - Avoid leaking secrets, tokens, or private payout details in code or logs
 - Respond quickly to CI failures, review comments, and requested changes
 
-## 💻 Tech Areas
+## Tech Areas
 
-`Python` `TypeScript` `React/Preact` `Node.js` `FastAPI` `Solidity` `GitHub Actions` `Automation` `AI Agents` `Web3`
+`Python` `TypeScript` `React` `Preact` `Node.js` `FastAPI` `Solidity` `GitHub Actions` `Automation` `AI Agents` `Web3`
 
-## 📦 Featured Repos
+## Featured Repos
 
 - [`agent-ready`](https://github.com/Adamchaua/agent-ready) - generate `AGENTS.md`, `CLAUDE.md`, `CODEX.md`, and machine-readable repo context for coding agents
 - [`agent-safety-hooks`](https://github.com/Adamchaua/agent-safety-hooks) - stop AI coding agents from running destructive shell commands
 - [`hermes-edge`](https://github.com/Adamchaua/hermes-edge) - tiny edge runtime for low-power Linux and ESP32-style bridges
 - [`ai-compliance-copilot`](https://github.com/Adamchaua/ai-compliance-copilot) - local browser-side prompt safety for sensitive data
 
-## 💸 Payout Details
+## Open To
+
+- Focused bounty tasks with clear acceptance criteria
+- Practical security and reliability fixes
+- Automation-heavy engineering work
+- AI-assisted developer workflow projects
+
+## Payout Details
 
 For approved bounty payouts when maintainers request payment information:
 
